@@ -1,0 +1,33 @@
+_repo: Conduct-of-Sir-William-Howe_33449
+_version: 0.1.0
+alternative_title: "Observations upon the Conduct of S-r W-----m H--e at the White\
+  \ Plains\r\nAs Related in The Gazette of December 30, 1776"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mauduit, Israel
+    aliases:
+    - Maudit, Israel
+    - Manduit, Israel
+    birthdate: 1708
+    deathdate: 1787
+    gutenberg_agent_id: '36420'
+    url: http://www.gutenberg.org/2009/agents/36420
+description: ''
+gutenberg_issued: '2010-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33449'
+  lccn: '71140874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'Howe, William Howe, Viscount, 1729-1814'
+- !lcsh 'White Plains, Battle of, White Plains, N.Y., 1776'
+title: Conduct of Sir William Howe
+url: http://www.gutenberg.org/ebooks/33449
